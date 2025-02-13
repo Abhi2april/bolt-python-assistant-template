@@ -1,8 +1,10 @@
 slack-bolt>=1.21,<2
 slack-sdk>=3.33.1,<4
-# If you use a different LLM vendor, replace this dependency
-openai
-
 pytest
 flake8
 black
+crewai
+crewai[tools]
+langchain_groq
+agentops
+slack_bolt
