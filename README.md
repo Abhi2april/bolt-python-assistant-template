@@ -1,4 +1,4 @@
-# EthicAll For Your Slack workspace moderation
+# EthicAll For Your Slack workspace moderation --> By Abhishek Singh
 You Don't need any more to pay for you OpenAI's API keys-> Just use your free Groq's Inference Tokens and change to your favourite model to work in backend from [here](https://console.groq.com/docs/models) and copy it to listeners/llm_caller.py
 This Bolt for Python template demonstrates how to build [Agents & Assistants](https://api.slack.com/docs/apps/ai) in Slack.
 
